@@ -26,5 +26,5 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-## Prject İmage
+## Project İmage
 ![Project İmage](https://i.hizliresim.com/7omziqy.PNG)
